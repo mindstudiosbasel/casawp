@@ -2,3 +2,4 @@
 vendor/**/.git/*
 config.codekit
 composer.phar
+yarn-error.log
